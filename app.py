@@ -43,4 +43,3 @@ print(f"\nContenido de df_merge filtrado por Unidades '{unidades_a_filtrar}' (pr
 print(df_filtrado_por_unidades.head())
 print("\nColumnas de df_merge filtrado por Unidades:")
 print(df_filtrado_por_unidades.columns)
-!pip install streamlit
